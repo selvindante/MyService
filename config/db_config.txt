@@ -1,0 +1,3 @@
+jdbc:postgresql://ec2-54-228-183-166.eu-west-1.compute.amazonaws.com:5432/dcevrddgbj46a6?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory
+xilitftxqetirc
+2xSK8NJ8krT59o0_bM_0TxiA2v

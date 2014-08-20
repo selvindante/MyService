@@ -1,0 +1,43 @@
+авг 01, 2014 11:09:22 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 0; requests in last period of 10 seconds - 0;
+Statistic for "addAmount()" method: total requests - 0; requests in last period of 10 seconds - 0;
+авг 01, 2014 11:09:32 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 0; requests in last period of 10 seconds - 0;
+Statistic for "addAmount()" method: total requests - 0; requests in last period of 10 seconds - 0;
+авг 01, 2014 11:09:42 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 0; requests in last period of 10 seconds - 0;
+Statistic for "addAmount()" method: total requests - 0; requests in last period of 10 seconds - 0;
+авг 01, 2014 11:11:37 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 0; requests in last period of 60 seconds - 0;
+Statistic for "addAmount()" method: total requests - 0; requests in last period of 60 seconds - 0;
+авг 01, 2014 11:12:37 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 5; requests in last period of 60 seconds - 5;
+Statistic for "addAmount()" method: total requests - 4; requests in last period of 60 seconds - 4;
+авг 01, 2014 11:13:37 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 34; requests in last period of 60 seconds - 29;
+Statistic for "addAmount()" method: total requests - 42; requests in last period of 60 seconds - 38;
+авг 01, 2014 11:14:37 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 61; requests in last period of 60 seconds - 27;
+Statistic for "addAmount()" method: total requests - 79; requests in last period of 60 seconds - 37;
+авг 01, 2014 11:15:37 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 91; requests in last period of 60 seconds - 30;
+Statistic for "addAmount()" method: total requests - 118; requests in last period of 60 seconds - 39;
+авг 01, 2014 11:16:37 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 118; requests in last period of 60 seconds - 27;
+Statistic for "addAmount()" method: total requests - 157; requests in last period of 60 seconds - 39;
+авг 01, 2014 11:17:37 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 191; requests in last period of 60 seconds - 73;
+Statistic for "addAmount()" method: total requests - 245; requests in last period of 60 seconds - 88;
+авг 01, 2014 11:18:37 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 220; requests in last period of 60 seconds - 29;
+Statistic for "addAmount()" method: total requests - 278; requests in last period of 60 seconds - 33;
+авг 01, 2014 11:27:24 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 220; requests in last period of 60 seconds - 0;
+Statistic for "addAmount()" method: total requests - 278; requests in last period of 60 seconds - 0;
+авг 01, 2014 11:28:24 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: Statistic for "getAmount()" method: total requests - 220; requests in last period of 60 seconds - 0;
+Statistic for "addAmount()" method: total requests - 278; requests in last period of 60 seconds - 0;
+авг 01, 2014 11:53:47 AM service.model.DLoggerAndDBUpdater$1$1 run
+INFO: 
+Statistic for "getAmount()" method: total requests - 134; requests in last period of 60 seconds - 28;
+Statistic for "addAmount()" method: total requests - 155; requests in last period of 60 seconds - 34;
