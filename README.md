@@ -1,7 +1,7 @@
 MyService
 =========
 
-This is server application Account Service (service for test task). It works with TestClient app.
+This is server application Account Service (service for test task). It works with TestClient app. Used JDK 1.8.
 
 Service working with data from postgres database from heroku and cashing data in memory.
 It can get amounts for some id from database or add some amounts for some id in DB. Feauteres:
